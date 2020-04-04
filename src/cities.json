@@ -1,0 +1,56 @@
+[
+  {"title":"Skopje, MKD",
+    "location_type":"City",
+    "woeid":482940,
+    "latt_long":"41.99646,21.43141"
+   },
+
+  {
+    "title":"Belgrade, SRB",
+    "location_type":"City",
+    "woeid":532697,
+    "latt_long":"44.787197,20.457273"
+   },
+  
+ {
+    "title":"Zagreb, HRV",
+    "location_type":"City",
+    "woeid":851128,
+    "latt_long":"45.815399,15.966568"
+   }, 
+
+ {
+    "title":"Ljubljana, SVN",
+    "location_type":"City",
+    "woeid":530634,
+    "latt_long":"46.056946,14.505751"
+   },
+
+ {
+    "title":"Sarajevo, BIH",
+    "location_type":"City",
+    "woeid":2123260,
+    "latt_long":"43.856430,18.413029"
+   },
+
+  {
+    "title":"Sofia, BGR",
+    "location_type":"City",
+    "woeid":839722,
+    "latt_long":"42.698334,23.319941"
+   },
+
+  { "title":"Podgorica, MNE",
+    "location_type":"City",
+    "woeid":29389237,
+    "latt_long":"42.442574,19.268646"
+   },
+
+  {
+    "title":"Tirana, ALB",
+    "location_type":"City",
+    "woeid":29389564,
+    "latt_long":"41.327953,19.819025"
+   }
+   
+]
