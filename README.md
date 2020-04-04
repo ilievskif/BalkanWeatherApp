@@ -12,7 +12,7 @@ An application which shows the current weather in 8 different cities in the Balk
 * Tirana, Albania
 
 ## Project GIF
-![Demo](demo\BalkanWeatherAppGIF.gif)
+![](BalkanWeatherAppGIF.gif)
 
 ## Live Demo
 Live demo: [Balkan Weather App](https://ilievskif.github.io/BalkanWeatherApp/)
